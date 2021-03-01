@@ -7,6 +7,7 @@ public class Demo1 {
 		System.out.println("Murad bomba oglandi");
 		
 		System.out.println("CAkakakaa");
+		System.out.println("Update 2");
 
 	}
 
