@@ -8,6 +8,7 @@ public class Demo1 {
 		
 		System.out.println("CAkakakaa");
 		System.out.println("Update 2");
+		System.out.println("Getdi");
 
 	}
 
