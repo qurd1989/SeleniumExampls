@@ -17,7 +17,7 @@ public class EvenOdd {
 	    	 System.out.println(n+" is Even");
 	     }
 	     else {
-	    	 System.out.println(n+" is Odd");
+	    	 System.out.println(n+" is Oddd");
 	     }
 		
 		
