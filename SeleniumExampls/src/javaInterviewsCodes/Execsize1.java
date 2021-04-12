@@ -5,6 +5,8 @@ import java.util.Scanner;
 public class Execsize1 {
 
 	public static void main(String[] args) {
+
+
 	
 		//1.Java Program to Reverse a Number
 		
@@ -38,6 +40,7 @@ public class Execsize1 {
     
 		//3.Reverse String
 		System.out.println("*************");
+
 	}
 
 }
